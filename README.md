@@ -1,2 +1,2 @@
-READE de metodologia con la consola de Git Bash
+README de metodologia desde la consola de Git Bash
 
